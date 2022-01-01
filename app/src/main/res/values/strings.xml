@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculatorCaller</string>
+    <string name="go_to_calculator">Go to Calculator</string>
 </resources>
